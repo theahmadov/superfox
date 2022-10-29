@@ -65,8 +65,6 @@ status_code
 headers
 """
 ```
-<<<<<<< HEAD
-=======
 
 ## Response Time
 ```python 
