@@ -14,6 +14,7 @@ class get:
     status_code = 0
     response_time = 0
     headers = 0
+    
     def __init__(agent,url):
         if(url.startswith('http') and ('://' in url)):
             get.url = url
