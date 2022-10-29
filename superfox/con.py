@@ -1,4 +1,14 @@
 from urllib.request import urlopen
+import time
+import time
+
+def getrt(url):
+    f = time.time()
+    r = urlopen(url)
+    time.sleep(1)
+    s = time.time()
+
+    return s-f
 
 def getdomain(url):
     if(url[len(url)-1]=='/'):

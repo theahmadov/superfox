@@ -1,7 +1,6 @@
 import superfox as fox
 
-req = fox.get("pakkan.com.tr")
 
-print(req.url)
-print(req.domain)
-print(req.ip)
+req = fox.get("https://pakkan.com.tr")
+
+print(req.headers)
