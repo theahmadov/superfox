@@ -1,4 +1,4 @@
-# Superfox
+# Superfox # WIll avaliable soon on pypi.org
 
 Send web requests with superfox. Check example codes for more information about usage.
 
