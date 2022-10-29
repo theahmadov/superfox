@@ -1,0 +1,1029 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Pakkan Okulları - Özel İlkokul ve Ortaokul - Beykoz - İSTANBUL </title>
+<meta name="description" content="Pakkan Okulları, İstanbul Beykoz'da İlkokul ve Ortaokul olarak hizmet veren en iyi özel okullardan biridir.Gaziemir şubelerimizle bale ve jimnastik kursları düzenliyoruz." />
+<meta name="keywords"    content="Pakkan Okulları,ortaokul - İlkokul,beykoz özel okul"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="dnz web dizayn">
+    <meta name="googlebot" content="All, Index, Follow" />
+<meta name="Robots" content="All, Index, Follow" />
+<meta name="rating" content="General" />
+<meta name="revisit-after" content="1 days" />
+<meta name="distribution" content="global" />
+<link rel="canonical" href="https://www.pakkan.com.tr/" />		
+		
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+		 <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet"> 
+
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+		<!-- Favicone Icon -->
+		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+		<!-- CSS -->
+		<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,800%7CLato:300,400,700" rel="stylesheet" type="text/css">
+		<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
+		<!-- font_icon -->
+		<link href="assets/css/font-awesome.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/ionicons.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/flaticon.css" rel="stylesheet" type="text/css">
+		<!--Light box-->
+		<link href="assets/css/jquery.fancybox.css" rel="stylesheet" type="text/css">
+
+		<!-- carousel -->
+		<link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
+		<!-- mediaelementplayer -->
+		<link href="assets/css/mediaelementplayer.css" rel="stylesheet" type="text/css">
+		<!--Main Slider-->
+		<link href="assets/css/settings.css" type="text/css" rel="stylesheet" media="screen">
+		<link href="assets/css/layers.css" type="text/css" rel="stylesheet" media="screen">
+		<!--Light box-->
+		<link href="assets/css/cs-skin-slide.css" rel="stylesheet" type="text/css">
+		<!--Select box-->
+		<link rel="stylesheet" type="text/css" href="assets/css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/cs-skin-slide.css" />
+		<!--Main Style-->
+		<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/index2.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/header2.css" rel="stylesheet" type="text/css">
+		<link href="assets/css/footer3.css" rel="stylesheet" type="text/css">
+		
+		<!--Theme Color-->
+		<link href="assets/css/theme-color/default.css" rel="stylesheet" id="theme-color" type="text/css">
+  <link rel="stylesheet" href="skin.css">
+   
+<style>
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+  border-radius: 15px;
+  text-align: center;
+}
+#boxes #dialog {
+  width:430px; 
+  height:auto;
+  padding:10px;
+  background-color:#e74a13;
+  font-family: 'Dosis', sans-serif;
+  font-size: 15pt; color: #FFFFFF;
+}
+.maintext{
+	text-align: center;
+  font-family: 'Dosis', sans-serif;
+  text-decoration: none;
+}
+#lorem{
+	
+	font-size: 14pt; font-weight: 700;
+  text-align: left;
+}
+
+	#lorem a {
+	background:#fff;
+    background: linear-gradient(top, #d21b00, #8e0700);
+    padding:3px 15px;
+    text-decoration:none;
+    color:#e74a13;
+    
+   
+    
+	}
+	#lorem a:hover {
+		background: linear-gradient(top, #8e0700, #d21b00);
+    
+	
+	#popupfoot{
+	font-family: 'Dosis', sans-serif;
+	font-size: 16pt;
+  padding: 10px 20px;
+}
+#popupfoot a{
+	text-decoration: none;
+}
+.agree:hover{
+  background-color: #D1D1D1;
+}
+.popupoption:hover{
+	background-color:#D1D1D1;
+	color: green;
+}
+.popupoption2:hover{
+	
+	color: red;
+}
+
+</style>
+   	
+		
+	
+		<script src="admin/js/ajax.js" type="text/javascript"></script>
+		
+	</head>
+
+	<body>
+	
+	
+		<!--Header Section Start Here
+		==================================-->
+		<header>
+			<div class="top-part__block ptb-5">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-7">
+							<p> Pakkan Okullarına Hoş geldiniz | Beykoz - İSTANBUL</p>
+						</div>
+						<div class="col-sm-3">
+							<div class="social-link__block ">
+								
+								<a href="index.php?dil=tr"><i class="fa fa-arrow-circle-o-right"></i>Türkçe</a>
+								<a href="index.php?dil=en"><i class="fa fa-arrow-circle-o-right"></i>English</a>
+									
+							</div>
+						</div>
+						<div class="col-sm-2">
+							<div class="social-link__block text-right">
+								<a href="https://www.facebook.com/Pakkan-Okulları-1881110248846642" target="_blank"><i class="fa fa-facebook"></i></a>
+								<a href="https://www.instagram.com/pakkanokullari" target="_blank"><i class="fa fa-instagram"></i></a>
+								<a href="https://twitter.com/pakkanokullari" target="_blank"><i class="fa fa-twitter"></i></a>
+								<a href="https://www.youtube.com/channel/UCsTtT-s28L9-luIsbNwaUFA?view_as=subscriber" target="_blank"><i class="fa fa-youtube"></i></a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div class="middel-part__block">
+				<div class="container">
+					<div class="row">
+						<div class="mobile-plr col-md-4 d-md-flex align-items-stretch flex-md-column flex-lg-row">
+							<div class="logo d-flex justify-content-center justify-content-lg-start">
+								<a href="index.php"> <img src="assets/images/logo.png" alt="Logo"> </a>
+							</div>
+						</div>
+						<div class="col-md-8">
+							<div class="top-info__block text-right">
+								<ul>
+									
+								<li> <i class="fa fa-phone"></i> <p> 444 75 60<span>Bizi Arayın!</span> </p> </li>
+								<li> <i class="fa fa-envelope"></i> <p> info@pakkan.k12.tr <span>Bize Yazın!</span> </p> </li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main_nav stricky-header__top">
+
+				<nav class="navbar navbar-toggleable-md navbar-sticky bootsnav">
+					<div class="container">
+						<!-- Start Header Navigation -->
+						<div class="navbar-header clearfix">
+							<button class="navbar-toggler navbar-toggler-right" type="button" id="menu_toggler" > <i class="fa fa-bars"></i> </button>
+						</div>
+						<!-- End Header Navigation -->
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse mobile__nav">
+
+							<ul class="nav navbar-nav mobile-menu mobile__nav-Ul">
+									<li>
+									<a href="#">KURUMSAL</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+<li><a href="index.php?id=kurucumuzdan">Kurucumuzdan</a></li><li><a href="index.php?id=kurucumuzdan>Kurucumuzdan</a></li><li><a href="index.php?id=kurumsal&tur_id=3864">Felsefemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=3921">Kuruluş Amacımız</a></li><li><a href="index.php?id=kurumsal&tur_id=3883">Tarihçemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=3894">Yerleşkemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=4444">Pakkan Ulaşım</a></li><li><a href="index.php?id=kurumsal&tur_id=3882">KVKK Aydınlatma Metni</a></li>									</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+								<li>
+									<a href="#!">OKULUMUZ</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+<li><a href="index.php?id=okulumuz&tur_id=3889">Nasıl Bir Öğretim?</a></li><li><a href="index.php?id=okulumuz&tur_id=3890">Nasıl Bir Akademik Program?</a></li><li><a href="index.php?id=okulumuz&tur_id=3891">Ne Hedefliyoruz?</a></li><li><a href="index.php?id=okulumuz&tur_id=3991">Değerlerimiz</a></li><li><a href="index.php?id=okulumuz&tur_id=3851">Destek Hizmetler</a></li>
+									<li> <a href="index.php?id=basin">Basında Biz</a> </li>
+									<li> <a href="index.php?id=veli-yorum">Sizden Gelenler</a> </li>
+									<li> <a href="index.php?id=bulten">Aylık Bülten</a> </li>
+									<li> <a href="index.php?id=haber">Bizden Haberler</a> 
+									<li> <a href="index.php?id=aylik-menu">Aylık Yemek Menüsü</a> </li>
+															</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+
+										<li> <a href="index.php?id=okul-oncesi">OKUL ÖNCESİ</a> </li>
+								<li>
+									<a href="#!">İLKOKUL</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+<li><a href="index.php?id=ilkokul&tur_id=3853">İlkokul Akademik Program</a></li><li><a href="index.php?id=ilkokul&tur_id=3950">Yabancı Dil Programı</a></li><li><a href="index.php?id=ilkokul&tur_id=3949">Rehberlik, Sosyal ve Duygusal Gelişim</a></li><li><a href="index.php?id=ilkokul&tur_id=3951">Etkinlikler</a></li>									</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+								<li>
+									<a href="#!">ORTAOKUL</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+				
+<li><a href="index.php?id=ortaokul&tur_id=3855">Ortaokul Akademik Program</a></li><li><a href="index.php?id=ortaokul&tur_id=3955">Lise Giriş Sistemi Sınavlarına Hazırlık</a></li><li><a href="index.php?id=ortaokul&tur_id=4196">Online Değerlendirme</a></li><li><a href="index.php?id=ortaokul&tur_id=3953">Yabancı Dil Programı</a></li><li><a href="index.php?id=ortaokul&tur_id=3952">Rehberlik, Sosyal ve Duygusal Gelişim</a></li><li><a href="index.php?id=ortaokul&tur_id=4222">Gurur Tablolarımız</a></li><li><a href="index.php?id=ortaokul&tur_id=3954">Etkinlikler</a></li>									</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+								<li>
+									<a href="#!">KAYIT</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+									
+										<li> <a href="index.php?id=basvuru">Randevu Talep Formu</a> </li>
+										<li> <a href="index.php?id=okul-ucret-bilgisi">Okul Ücret Bilgisi</a> </li>
+	                                    <li> <a href="index.php?id=kayit-kabul">Kayıt Kabul</a> </li>
+										
+
+									</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+								<li>
+									<a href="#!">GALERİ</a><span class="submenu-button"></span>
+									<!-- Nav Dropdown -->
+									<ul class="dropdown-menu">
+
+<li><a href="index.php?id=galeri-foto&tur_id=3877&rbas=23 Nisan Albümü">23 Nisan Albümü</a></li><li><a href="index.php?id=galeri-foto&tur_id=3878&rbas=Kampüsümüz">Kampüsümüz</a></li><li><a href="index.php?id=galeri-foto&tur_id=3879&rbas=Foto Galeri">Foto Galeri</a></li>
+
+										<li> <a href="index.php?id=galeri-video">Video Galeri</a> </li>
+									</ul>
+									<!-- End Nav Dropdown -->
+								</li>
+								<li> <a href="index.php?id=iletisim">İLETİŞİM</a> </li>
+								<li> <a class="custom-btn" href="index.php?id=basvuru">Randevu Alın</a> </li>
+							</ul>
+
+						</div>
+						<!--navbar-collapse -->
+					</div>
+				</nav>
+			</div>
+		</header>
+		<!--Section End Here-->
+		<!-- Maine-Banner -->
+			<div class="main-banner banner_style4">
+			<div id="rev_slider_34_1_wrapper" class="rev_slider_wrapper" data-alias="news-gallery34">
+				<!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
+				<div id="rev_slider_34_1" class="rev_slider" data-version="5.0.7">
+					<ul>
+						
+		<!-- SLIDE  -->
+		<li data-index="rs-128"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/06-08-2020_17-10_1596723028.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+<div class="banner-text "> <h2> Pakkan Okullarına<br> <span class="text-color"> Hoş geldiniz.</span></h2> <p>  	</p> </div>
+		
+				</div>
+						</li>
+		<!-- SLIDE  -->
+		<li data-index="rs-129"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/17-01-2021_23-55_1610916915.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+<div class="banner-text "> <h2> Öğrenmeye Odaklanıyor<br> <span class="text-color"> Çabayı Alkışlıyoruz.</span></h2> <p>  	</p> </div>
+		
+				</div>
+						</li>
+		<!-- SLIDE  -->
+		<li data-index="rs-130"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/05-10-2020_12-13_1601889214.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+<div class="banner-text "> <h2> Önce Sağlık,<br> <span class="text-color"> Ancak Her Şartta Eğitim.</span></h2> <p>  	</p> </div>
+		
+				</div>
+						</li>
+		<!-- SLIDE  -->
+		<li data-index="rs-131"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/05-10-2020_12-13_1601889235.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+	
+				</div>
+						</li>
+		<!-- SLIDE  -->
+		<li data-index="rs-132"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/04-01-2021_17-08_1609769315.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+	
+				</div>
+						</li>
+		<!-- SLIDE  -->
+		<li data-index="rs-133"  >
+							<!-- MAIN IMAGE -->
+							<img src="medya/06-08-2020_17-09_1596722953.jpg"  alt="Pakkan okulları"  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title tp-resizeme "
+							id="slide-129-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['50','50','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['680','680','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on" >
+<div class="banner-text "> <h2> Mezuniyet<br> <span class="text-color"> Törenimiz.</span></h2> <p> İlkokuldan ortaokula, ortaokuldan liseye geçiş yapan öğrencilerimiz için bir seremoni düzenledik. 	</p> </div>
+		
+				</div>
+						</li>
+ 
+					</ul>
+					<div class="tp-bannertimer tp-bottom"></div>
+				</div>
+			</div>
+		</div>
+
+
+	
+
+
+
+
+		<!-- blog -->
+		<section id="blog" class="padding ptb-xs-40  gray-bg new-blog">
+			<div class="container">
+		<div class="row pb-30 text-center"> <div class="col-md-6 col-md-offset-3"> <div class="creative_heading"> <h2> Bizden <span>Haberler</span></h2> <p> Pakkan Okulları hakkında en güncel haber ve duyurulara anında ulaşın.  </p> </div> </div> </div>
+				
+				<div class="row">
+<div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4516"><img src="medya/14-09-2022_12-25_1663147507.jpg" alt="Okulumuz Yeni Dneme Balad"></a> </div>
+							<div class="post-header"> <h4><a href="">Okulumuz Yeni Döneme Başladı</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4516"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4515"><img src="medya/14-09-2022_12-21_1663147292.jpg" alt="retmenlerimiz JMUN Eitiminde"></a> </div>
+							<div class="post-header"> <h4><a href="">Öğretmenlerimiz JMUN Eğitiminde</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4515"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4466"><img src="medya/28-02-2022_16-54_1646056462.png" alt="Bar"></a> </div>
+							<div class="post-header"> <h4><a href="">Barış...</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4466"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4439"><img src="medya/10-02-2022_19-20_1644510022.png" alt="Adm adm LGS2022ye doru"></a> </div>
+							<div class="post-header"> <h4><a href="">Adım adım #LGS2022ye doğru…</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4439"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4426"><img src="medya/05-02-2022_19-54_1644080066.png" alt="Pakkan Ekibi Byyor"></a> </div>
+							<div class="post-header"> <h4><a href="">Pakkan Ekibi Büyüyor.</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4426"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4391"><img src="medya/03-12-2021_17-08_1638540527.jpg" alt="PakkanOnlineDeerlendirme"></a> </div>
+							<div class="post-header"> <h4><a href="">#PakkanOnlineDeğerlendirme</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4391"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4353"><img src="medya/01-09-2021_13-43_1630493039.jpg" alt="Yine bir lk gn"></a> </div>
+							<div class="post-header"> <h4><a href="">Yine bir İlk gün…</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4353"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4345"><img src="medya/11-08-2021_17-49_1628693383.jpg" alt="Okullar Alyor"></a> </div>
+							<div class="post-header"> <h4><a href="">Okullar Açılıyor</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4345"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4289"><img src="medya/10-03-2021_14-24_1615375476.png" alt="Kurucu Temsilcimiz Esra Pakkan Milliyet Gazetesine konuk oldu"></a> </div>
+							<div class="post-header"> <h4><a href="">Kurucu Temsilcimiz Esra Pakkan Milliyet Gazetesine konuk oldu</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4289"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4278"><img src="medya/02-03-2021_10-05_1614668752.jpg" alt="Yaparak Yaayarak renmek"></a> </div>
+							<div class="post-header"> <h4><a href="">Yaparak Yaşayarak Öğrenmek</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4278"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4277"><img src="medya/02-03-2021_09-10_1614665402.jpg" alt="imizin Banda"></a> </div>
+							<div class="post-header"> <h4><a href="">İşimizin Başında...</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4277"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div><div class="col-md-3 mb-xs-30 mb-sm-30" style="min-height:470px;" >
+						<div class="blog-post">
+							<div class="post-media img-scale"> <a href="?id=haber&tur_id=4272"><img src="medya/26-02-2021_10-03_1614323020.png" alt="Okul ncesi ve lkokul Tantm Gn"></a> </div>
+							<div class="post-header"> <h4><a href="">Okul Öncesi ve İlkokul Tanıtım Günü</a></h4> </div>
+							<div class="post-more-link pull-left"> <a href="?id=haber&tur_id=4272"  class="btn-text ">DEVAMINI OKU</a> </div>
+						</div>
+					</div> 
+	</div>
+			</div>
+		</section>
+		<!-- BLog_End -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Project Section -->
+		<div id="project-section" class="pt-80 pb-80 pt-xs-60">
+			<div class="container">
+				<div class="row pb-30 text-center"> <div class="col-md-6 col-md-offset-3"> <div class="creative_heading"> <h2><span>Neden  </span>Pakkan Okulları?</h2> <p> 21. yüzyıl becerilerini kazanmış, yaratıcı, eleştirel düşünen, iletişimi güçlü, iş birliği içinde çalışan, ilkeli, merak eden ve öğrenmenin mutluluğunu yaşayan öğrenciler yetiştiriyoruz.  </p> </div> </div> </div>
+				<div class="row">
+
+	<div class="col-md-6 col-lg-6 mb-30">
+						<div class="img-scale about-block gray-bg hover-bg d-flex align-items-center flex-column flex-sm-row">
+							<div class="fl float-right-sm half-width"> <a href="?id=okulumuz&tur_id=3889"><img class="img-responsive" src="medya/15-01-2021_23-12_1610741570.jpg" alt="Nasl Bir retim"></a> </div>
+							<div class="text-box padding-20 d-flex flex-column half-width">
+								<div class="box-title"> <h3 class="mt-0"><a href="?id=okulumuz&tur_id=3889">Nasıl Bir Öğretim?</a></h3> </div>
+								<div> <p>Bilginin tutuma, tutumun davranışa dönüşmesi sürecine hizmet eden bir öğretim modelini benimsiyoruz. Bilgiyi deneyimler üzerinden anlamlı ve akılda kalıcı hale getiriyoruz.</p> </div>
+							</div>
+						</div>
+					</div>
+	<div class="col-md-6 col-lg-6 mb-30">
+						<div class="img-scale about-block gray-bg hover-bg d-flex align-items-center flex-column flex-sm-row">
+							<div class="fl float-right-sm half-width"> <a href="?id=okulumuz&tur_id=3890"><img class="img-responsive" src="medya/15-01-2021_21-48_1610736531.jpg" alt="Nasl Bir Akademik Program"></a> </div>
+							<div class="text-box padding-20 d-flex flex-column half-width">
+								<div class="box-title"> <h3 class="mt-0"><a href="?id=okulumuz&tur_id=3890">Nasıl Bir Akademik Program?</a></h3> </div>
+								<div> <p>Günü verimli bir biçimde kullanıp öğrencilerimizin alması gereken derslerine ek olarak #PakkanEnglishAlive programıyla İngilizce ve Almanca öğretiyoruz. Öğrencilerimizi bireysel akademik programlarla destekliyoruz.</p> </div>
+							</div>
+						</div>
+					</div>
+	<div class="col-md-6 col-lg-6 mb-30">
+						<div class="img-scale about-block gray-bg hover-bg d-flex align-items-center flex-column flex-sm-row">
+							<div class="fl float-right-sm half-width"> <a href="?id=okulumuz&tur_id=3891"><img class="img-responsive" src="medya/15-01-2021_22-03_1610737438.jpg" alt="Ne Hedefliyoruz"></a> </div>
+							<div class="text-box padding-20 d-flex flex-column half-width">
+								<div class="box-title"> <h3 class="mt-0"><a href="?id=okulumuz&tur_id=3891">Ne Hedefliyoruz?</a></h3> </div>
+								<div> <p>Kendine ve yaşadığı topluma sorumlu, özgürlüğün ve bağımsızlığın kıymetine hakim, eleştirel düşünebilen, bilmekten değil öğrenmekten güç alan, iletişimi güçlü, iş birliğinin anlamını öğrenmiş bireyler yetiştirmeyi hedefliyoruz.</p> </div>
+							</div>
+						</div>
+					</div>
+	<div class="col-md-6 col-lg-6 mb-30">
+						<div class="img-scale about-block gray-bg hover-bg d-flex align-items-center flex-column flex-sm-row">
+							<div class="fl float-right-sm half-width"> <a href="?id=okulumuz&tur_id=3991"><img class="img-responsive" src="medya/15-01-2021_23-05_1610741159.jpg" alt="Deerlerimiz"></a> </div>
+							<div class="text-box padding-20 d-flex flex-column half-width">
+								<div class="box-title"> <h3 class="mt-0"><a href="?id=okulumuz&tur_id=3991">Değerlerimiz</a></h3> </div>
+								<div> <p>Yaşam becerileriyle donanmış bireyler yetiştirmek üzere çıktığımız bu yolda insana ve doğanın tümüne duyarlılık, dürüstlük, saygı, yardımseverlik, üretkenlik, güncellik, sorumluluk ve hoşgörü en önde gelen değerlerimizdir.</p> </div>
+							</div>
+						</div>
+					</div>				</div>
+			</div>
+		</div>
+		<!-- Project Section -->
+		
+		<!-- Gallary -->
+		<section id="work" class="ptb-xs-60">
+			<div class="container-fluid">
+				<div class="row pb-30 pt-30 text-center"> <div class="col-sm-12 mb-20"> <h2 class="color"><span>Bizden</span> Kareler</h2> <span class="b-line"></span> </div> </div>
+				<!-- work Filter -->
+				<div class="row"> </div>
+				<!-- End work Filter -->
+				<div class="row container-grid nf-col-4">
+					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="1" src="medya/2021-01-04_10kasm4_1609769122_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_10kasm4_1609769122_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="2" src="medya/2021-01-17_has4954_1610898651_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_has4954_1610898651_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="3" src="medya/2021-01-17_sam0124_1610897648_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_sam0124_1610897648_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="4" src="medya/2021-01-17_qnvr1315_1610897647_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_qnvr1315_1610897647_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="5" src="medya/2021-01-17_eylul_1610897644_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_eylul_1610897644_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="6" src="medya/2021-01-17_29_1610897643_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_29_1610897643_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="7" src="medya/2021-01-17_ubat_1610897525_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_ubat_1610897525_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="8" src="medya/2021-01-17_temmuz_1610897524_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_temmuz_1610897524_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="9" src="medya/2021-01-17_has2843_1610897396_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_has2843_1610897396_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="10" src="medya/2021-01-17_has4813_1610897387_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_has4813_1610897387_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="11" src="medya/2021-01-17_has2771_1610897386_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_has2771_1610897386_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="12" src="medya/2021-01-17_has2781_1610897383_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_has2781_1610897383_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="13" src="medya/2021-01-17_11a_1610897254_3893.png" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_11a_1610897254_3893.png" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="14" src="medya/2021-01-17_4_1610896901_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-17_4_1610896901_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="15" src="medya/2021-01-04_bahce3_1609769206_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_bahce3_1609769206_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="16" src="medya/2021-01-04_dji0051_1609769124_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_dji0051_1609769124_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="17" src="medya/2020-08-10_g21_1597067072_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_g21_1597067072_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="18" src="medya/2021-01-04_10kasm2_1609769121_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_10kasm2_1609769121_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="19" src="medya/2021-01-04_9b1c4d663f7847459bc369fb00df66af_1609768965_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_9b1c4d663f7847459bc369fb00df66af_1609768965_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="20" src="medya/2021-01-04_photo20191202121740_1609768314_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_photo20191202121740_1609768314_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="21" src="medya/2021-01-04_dji0056_1609768313_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_dji0056_1609768313_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="22" src="medya/2021-01-04_antkabir1_1609768312_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_antkabir1_1609768312_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="23" src="medya/2021-01-04_194_1609768241_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-04_194_1609768241_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="24" src="medya/2021-01-03_f22ef4e04c87414da02cb289782f69ce_1609674601_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2021-01-03_f22ef4e04c87414da02cb289782f69ce_1609674601_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="25" src="medya/2020-08-10_ga8_1597067080_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_ga8_1597067080_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="26" src="medya/2020-08-10_ga7_1597067079_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_ga7_1597067079_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="27" src="medya/2020-08-10_ga6_1597067077_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_ga6_1597067077_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="28" src="medya/2020-08-10_ga4_1597067076_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_ga4_1597067076_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="29" src="medya/2020-08-10_ga1_1597067074_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_ga1_1597067074_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="30" src="medya/2020-08-10_g29_1597067074_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_g29_1597067074_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="31" src="medya/2020-08-10_g27_1597067073_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_g27_1597067073_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>					<div class="nf-item branding coffee no-spacing">
+						<div class="item-box">
+							<a> <img alt="32" src="medya/2020-08-10_g26_1597067073_3893.jpg" class="item-container"> </a>
+							<div class="link-zoom"> <a href="medya/2020-08-10_g26_1597067073_3893.jpg" class="fancylight popup-btn" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a> </div>
+							<div class="gallery-heading"> <h4><a href="#"></a></h4> </div>
+						</div>
+					</div>				</div>
+			</div>
+		</section>
+
+		<!-- Gallary End -->
+		<!--Testimonial Section Start-->
+		<section class="testimonial_wrapper__block padding">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-sm-12">
+						<div class="creative_heading light-color"> <h2>Sizden Gelenler</h2> </div>
+
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="testimonial_carosule-wrap owl-carousel" data-pagination="false" data-loop="true" data-autoplay="false" data-navigation="true" data-items="1" data-tablet="2" data-mobile="1" data-desktop="3" data-prev="fa fa-chevron-left" data-next="fa fa-chevron-right">
+<div class="single_carousel pt-40"> <p>Bence bir okulun ilk hedefi öğrencilerinin okulu sevmelerini ve isteyerek gelmelerini sağlamak olmalı. Bunun için de hem yönetim, hem eğitim kadrosuna önemli görevler düşüyor elbet. Yine okulun mekânsal özellikleri bu anlamda çok önemli. Büyük bahçe, evcil hayvanlar, çeşit çeşit bitki örtüsüyle Pakkan Okulları hepimizin koşarak ve keyifle gittiği bir okul açıkçası. Çocuğuma sağladığınız nitelikli eğitim fırsatı için çok teşekkür ederim için... <br />
+<br />
+23 Ocak 2021<br />
+BAHA PAKKAN</p> </div> <div class="single_carousel pt-40"> <p>Çocuğumuzun kendi içindeki, kendine özgü yeteneklerini tanıması için uygun koşullar sunulması, tüm yaşamını sürdüreceği toplum içindeki yerini keşfetmesini sağlaması ve hatta ötesinde bu yeri isterse ve gayret ederse değiştirebileceğini kavratması bir okulun en önemli misyonlarıdır bence. Çocuklarımızı geleceğe ve kendine güvenli, donanımlı, sağduyulu, duyarlı ve adaletli bireyler olarak hayata hazırlayan, sevgi dolu Pakkan Okulları ailesine teşekkürler…<br />
+<br />
+20 Ocak 2021<br />
+NASUH MAHRUKİ</p> </div> <div class="single_carousel pt-40"> <p>Pakkan Okullarının çocuğa özel eğitim anlayışı, okulda herşeyi tamamlayıp evde çocukları (ve velileri) ödevlere boğmamaları hoşuma gidiyor. Ayrıca görüyorum ki Yasemin Hoca’nın uzun yıllara dayanan öğretmenlik tecrübesi ve sevecenliği harika bir ekip ve okul yaşantısı yaratılmasına neden olmuş. Okulumuzu seçerken bunların yanında yabancı dili öğretme konusundaki yetkinliklerine de baktım. Anadili İngilizce olan öğretmenlerle kendilerine özgü yarattıkları ve markalaştırdıkları bir yabancı dil eğitim modelleri olması, haftalık ders saatleri ve okul dışı etkinlikleri nedeniyle güvenimi kazandılar. Son olarak spor ve sanat faaliyetlerinin çeşitliliğine de bakınca içim rahat etti ve “işte bu bizim okulumuz” dedim. <br />
+Teşekkürler... <br />
+<br />
+15 Ocak 2021 <br />
+GÖKÇE ŞAHİN</p> </div> <div class="single_carousel pt-40"> <p>Okul seçimindeyken olmazsa olmazım, oğlumun okulunda mutlu olması idi. Çünkü mutluluk temelinin üzerine ne isterseniz inşaa edebilirsiniz. Okulumuzun imkanları içinde ve hatta süreçten kaynaklanan tüm imkansızlıklara rağmen sunmaya çalıştıkları hem velisini hem de öğrencisini fazlasıyla memnun ediyor. Biz her ebeveyn gibi elimizden gelenin en iyisini yapmaya çabalıyoruz şüphesiz ve biliyoruz ki Pakkan Okulları aidiyet duygusunu ve bu hissin getirisi olan güven ve özgürlük duygularını sonuna kadar hissettiğimiz seçkin bir okul.<br />
+Teşekkür ederiz...<br />
+<br />
+12 Ocak 2021<br />
+ ALEV BERBEROĞLU</p> </div> <div class="single_carousel pt-40"> <p>Sevgili Yasemin Pakkan Ailesi,<br />
+<br />
+Hayatımın en önemli yılında bana destek olup her zaman sorularımı cevapladığınız, çok çok eğlenceli öğretmenlere sahip olmamı sağladığınız için teşekkür ederim. Kendimi çok rahat hissettiğim bu ortamda bana bilgili olarak çok şey kazandırdığınız için teşekkürler. İyi ki varsınız.<br><br />
+<br />
+Hepinizi çok seviyorum.</p> </div> <div class="single_carousel pt-40"> <p>Sevgili Yasemin Pakkan Ailesi<br />
+<br />
+<br />
+Size ne kadar teşekkür etsem az. En önemli senemi hem verimli hem eğlenceli hem de dopdolu geçirmemi sağladınız. Yarın TEOG var ve gerçekten çok heyecanlıyım. Sınavım iyi geçse de kötü geçse de bu yorucu sene unutulmaz bir sene olarak kalacak. Danışmanım Güldün Hocam ve diğer tüm öğretmenlerim bizimle tek tek ilgilendi ve sorunlarımıza çözümler buldu. Onlar olmasa I. TEOG’da bu puanı yapamazdım. Hepinizi çok seviyorum, iyi ki varsınız.<br><br />
+<br />
+<br />
+Beni unutmayın!</p> </div> <div class="single_carousel pt-40"> <p>Sevgili Yasemin Pakkan Ailesi<br />
+<br />
+Öncelikle size olan duygularımı sözlerle anlatamam. Yaklaşık 3 senedir buradayım. 2014’ün başında geldiğimde çok utanıyordum ama gün geçtikçe buranın bir dershaneden çok aile, sıcak bir yuva olduğunu anladım. 50 dakikalık derslerin 10 dakika gibi geçmesini Olcay Hoca’nın erkeklere karşı olan şefkatini, Arzu Hoca’nın sonu gelmeyen maceralarını Ezel Hoca’nın tatlılıklarının Aslıhan Hoca’nın kendine olan müthiş özgüvenini, Gizem Hoca’nın harika saç örülerini ve diğer öğretmenleri hiç unutmayacağım. Artık yolun sonuna geldik. TEOG denen sınavla ilgili karınca kadar tereddüttüm yok çünkü arkamda ailem yani siz varsınız. Sonuç ne olursa olsun sizi çok seviyorum. Her anıda yanımda olduğunuz için çok teşekkür ederim.<br />
+<br />
+<br />
+İyi ki varsınız.</p> </div> <div class="single_carousel pt-40"> <p>Sevgili Yasemin Pakkan<br />
+<br />
+Bu sene hepimiz için çok önemliydi. Siz bu zorlu yolculukta yanımızda oldunuz. Senemize neşe, eğlence ve renk kattınız.<br />
+Bunun için çok minnettarım.<br />
+<br />
+Teşekkür ederim</p> </div> <div class="single_carousel pt-40"> <p>Çılgın hikayeleriyle Ezel Hoca ve beni inatla Patrick Jane’e benzeten biricik Arzu Hoca teşekkürler. Güldürüp bizimle gülen Uğur Hoca, ruhu şair olan teorik (deneysel değil sakın karıştırmayın) fizikçi danışmanım Olcay Hoca, teşekkürler. En önemlisi de dershaneye gelmeyi eziyet olmaktan kurtaran arkadaşlarım (isimleri kağıda sığmaz ve bunları mümkün kılan Yasemin Pakkan Hocama teşekkürler.<br />
+<br />
+Denklemdeki tüm sabit terimleri bilinmeyenleri bulmamı sağladığınız için teşekkürler.</p> </div> <div class="single_carousel pt-40"> <p>8. sınıfın benim için çok zor bir sene olacağını düşünmüştüm ama buraya geldiğimden beri bu senenin ortaokul hayatımın en iyi senesi olduğuna karar verdim. Bu stresli yılı bu kadar eğlenceli bir şekilde geçirebileceğimi düşünmezdim. Danışmanım Ezel Hoca ve diğer bütün hocalarım sayesinde çok güzel bir sene geçirdim. Herkese çok teşekkür ediyorum.</p> </div> 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--Testimonial Section End-->
+
+
+
+<section id="choose_us" class="padding ptb-xs-40 overflow_hidden secondary_bg dark-color">
+				<div class="image_cover image_cover_right"></div>
+				<!-- half image background element -->
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6">
+<div class="creative_heading  pb-20">
+<p><strong style="color: #ff6600;">Yerleşkemiz</strong></p>
+<p>&nbsp;</p>
+<p>Pakkan Okulları, 120 dönüm arazide, Türk Alman Üniversitesinin Beykoz yerleşkesinin içinde bulunur. İstanbul&rsquo;un her iki yakasına eşit uzaklıkta, ormana sırtını dayamış, büyük yeşil bahçelerin kucakladığı iki katlı yatay binalarımız 2018-2019 eğitim öğretim yılında öğrencilerine kapılarını açmıştır. Yerleşkemiz; doğal çim bahçesi, öğrencilerin teneffüs zamanlarını en verimli ve keyifli şekilde geçirmeleri için hazırlanmış oyun/dinlenme noktaları, yeni nesil öğrenme alanları ve deneyim yaratmak adına tasarlanmış sınıflarıyla öğrencilerimizin huzur ve başarı kaynağıdır.</p>
+<p><span style="color: #ff6600;"><strong>Konumumuz</strong></span><strong></strong></p>
+<p>En çok aldığımız sorulardan biri de bu açıkçası. Söylemek, tarif etmek yetmez, bir de sayılarla ifade edelim istedik.&nbsp;Beykoz İstanbul&rsquo;un en köklü semtlerinden biri. Eşsiz doğasıyla çok ünlü... Türk Alman Üniversitesi Beykoz Yerleşkesi içindeki yemyeşil okulumuzsa denize, merkeze, FSM köprüsüne oldukça yakın. (Levent&rsquo;e 13 dk., Zekeriyaköy&rsquo;e 30 dk., Göktürk&rsquo;e 30 dk., Ataşehir&rsquo;e 25 dk.)</p>
+</div>							<div class="but-read">
+								<a href="index.php?id=kurumsal&tur_id=3851" class="btn-text"> DETAYLI BİLGİ</a>
+							</div>
+
+						</div>
+					
+
+					</div>
+				</div>
+			</section>
+			<!-- FOOTER -->
+		<footer class="footer pt-80 pt-xs-60">
+			<div class="container">
+				<!--Footer Info -->
+				<div class="row footer-info mb-60">
+				
+
+
+
+	<div class="col-lg-5 col-md-4 col-xs-12 mb-sm-30">
+						<h4 class="mb-30 text-uppercase">BİZE ULAŞIN</h4>
+						<address>
+							<i class="ion-ios-location fa-icons"></i> Merkez Mahallesi Şahinkaya Caddesi No:86/3 Beykoz 34820 İstanbul/TÜRKİYE
+						</address>
+						<ul class="link-small">
+							<li> <a href="mailto:info@pakkan.k12.tr"><i class="ion-ios-email fa-icons"></i>info@pakkan.k12.tr</a> </li>
+							<li> <a><i class="ion-ios-telephone fa-icons"></i>444 75 60</a> </li>
+						</ul>
+						<div class="icons-hover-black">
+								<a href="https://www.facebook.com/Pakkan-Okulları-1881110248846642" target="_blank"><i class="fa fa-facebook"></i></a>
+								<a href="https://www.instagram.com/pakkanokullari" target="_blank"><i class="fa fa-instagram"></i></a>
+								<a href="https://twitter.com/pakkanokullari" target="_blank"><i class="fa fa-twitter"></i></a>
+								<a href="https://www.youtube.com/channel/UCsTtT-s28L9-luIsbNwaUFA?view_as=subscriber" target="_blank"><i class="fa fa-youtube"></i></a>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-xs-12 mb-sm-30">
+						<h4 class="mb-30 text-uppercase">HIZLI MENÜLER </h4>
+						<ul class="link blog-link">
+							
+<li><a href="index.php?id=kurumsal&tur_id=3864">Felsefemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=3921">Kuruluş Amacımız</a></li><li><a href="index.php?id=kurumsal&tur_id=3883">Tarihçemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=3894">Yerleşkemiz</a></li><li><a href="index.php?id=kurumsal&tur_id=4444">Pakkan Ulaşım</a></li><li><a href="index.php?id=kurumsal&tur_id=3882">KVKK Aydınlatma Metni</a></li>							<li> <a href="http://pakkan.com.tr?id=basvuru"></a> </li>
+							<li> <a href="http://pakkan.com.tr?id=galeri-foto">Foto Galeri</a> </li>
+							<li> <a href="http://pakkan.com.tr?id=galeri-video">Video Galeri</a> </li>
+						</ul>
+					</div>
+
+
+
+
+					<div class="col-lg-4 col-md-12 col-xs-12 mt-sm-30 mt-xs-30">
+						<div class="newsletter">
+							<h4 class="mb-30 text-uppercase">DEĞERLERİMİZ </h4>
+							<p>
+							Pakkan Okullarında her çocuğun özel olduğuna inanıyor, öğrencilerimizin güncel ve amaca hizmet eden bir öğretimle gelişeceğini düşünüyoruz. Çocuklarımızı doğru beceri donanımıyla geleceğe hazırlıyor, iletişimi güçlü bireyler olabilmeleri için odaklanıyoruz. Yaşam becerileriyle donanmış bireyler yetiştirmek üzere çıktığımız bu yolda insana ve doğanın tümüne duyarlılık, dürüstlük, saygı, yardımseverlik, üretkenlik, güncellik, sorumluluk ve hoşgörü en önde gelen değerlerimizdir.
+							</p>
+<p><br><a href="index.php?id=ani-defteri" style="color:#04FFC3" >ANI DEFTERİMİZ</a> </p>
+
+
+<p>
+
+
+
+
+
+</p>
+
+						</div>
+					</div>
+				</div>
+				<!-- End Footer Info -->
+			</div>
+			<!-- Copyright Bar -->
+			<div class="copyright">
+				<div class="container">
+<p>
+<span style="color:#fff;font-size:14px" >  
+&nbsp;<strong style="color:#fff" >Online Ziyaretçi: </strong> 13&nbsp;&nbsp;
+<strong style="color:#fff" >Bugün : </strong> 375&nbsp;&nbsp;
+<strong style="color:#fff" >Toplam Ziyaretçi : </strong> 865407</span>
+</p>
+
+					<p class=""> © 2018 <a><b>Pakkan Okulları  | Anasınıfı - İlkokul - Ortaokul | Beykoz - İSTANBUL</b></a>. Tüm Hakları Saklıdır.  </p> <p class=""> Web Tasarım	<a href="http://dnzwebdizayn.com/" target="_blank">DNZ WEB DİZAYN</a> </p>
+
+				</div>
+			</div>
+			<!-- End Copyright Bar -->
+		</footer>
+		<!-- END FOOTER -->
+
+
+		<script src="assets/js/jquery-1.12.4.min.js" type="text/javascript"></script>
+
+		<script type="text/javascript" src="assets/js/tether.min.js"></script>
+		<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+		<!-- revolution Js -->
+		<script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="assets/js/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="assets/js/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="assets/js/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="assets/js/revolution.extension.parallax.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.revolution.js"></script>
+		<!-- fancybox Js -->
+		<script src="assets/js/jquery.mousewheel-3.0.6.pack.js" type="text/javascript"></script>
+		<script src="assets/js/jquery.fancybox.pack.js" type="text/javascript"></script>
+		<!-- carousel Js -->
+		<script src="assets/js/plugin/owl.carousel.js" type="text/javascript"></script>
+		<!-- masonry,isotope Effect Js -->
+		<script src="assets/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+		<script src="assets/js/isotope.pkgd.min.js" type="text/javascript"></script>
+		<script src="assets/js/masonry.pkgd.min.js" type="text/javascript"></script>
+		<script src="assets/js/jquery.appear.js" type="text/javascript"></script>
+		<!-- parallax Js -->
+		<script src="assets/js/jquery.parallax-1.1.3.js" type="text/javascript"></script>
+		<script src="assets/js/jquery.appear.js" type="text/javascript"></script>
+		<!-- matchHeight Js -->
+		<script src="assets/js/jquery.matchHeight-min.js" type="text/javascript"></script>
+		<!-- Accordion Js -->
+		<script type="text/javascript" src="assets/js/jquery.accordion.js"></script>
+		<!-- Select Box  Js -->
+		<script type="text/javascript" src="assets/js/classie.js"></script>
+		<script type="text/javascript" src="assets/js/selectFx.js"></script>
+		<script src="assets/js/custom.js" type="text/javascript"></script>
+		<script>
+			///===Select Box  Js -->
+			(
+				function() {
+					[].slice.call(document.querySelectorAll('select.cs-select')).forEach(function(el) {
+						new SelectFx(el);
+					});
+				})();
+		</script>
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+	</body>
+</html>

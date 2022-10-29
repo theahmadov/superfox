@@ -14,7 +14,7 @@ class post:
     status_code = 0
     headers = ''
     
-    def __init__(agent,url,payload):
+    def __init__(aagent,url,payload):
         if(url.startswith('http') and ('://' in url)):
             post.url = url
             post.domain = getdomain(url)
@@ -26,7 +26,7 @@ class post:
         req =  request.Request(post.url, data=payload)
         rget = request.urlopen(req)
 
-        post.text = rget.read()
+        post.text = rget.read().decode()
         post.status_code = rget.getcode()
         post.headers = rget.info()
         post.ip = socket.gethostbyname(post.domain)

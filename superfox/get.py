@@ -27,7 +27,7 @@ class get:
         try:
             sr = urlopen(get.url)
             
-            get.text = sr.read()
+            get.text = sr.read().decode()
             get.status_code = sr.getcode()
             get.headers = sr.info()
         except:
