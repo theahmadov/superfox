@@ -2,9 +2,11 @@
 
 Send web requests with superfox. Check example codes for more information about usage.
 
-# Superfox Usage
+# Superfox Usage 
 
 While send request you may use http or https. Without it superfox also will send request. You are free to use it.
+
+### [get] Module
 ```python 
 import superfox as fox # import module 
 
@@ -19,6 +21,8 @@ print(req.status_code)   # Website Status Code
 # .
 
 """
+Avaliable :
+
 url
 text
 ip
@@ -29,21 +33,35 @@ headers
 """
 ```
 
-# Example 
 
-## Headers
+### [post] Module
+
+Explaination of this sample code : 
+This code will post a payload to this url.
 
 ```python 
-import superfox as fox
+import superfox as fox # import module 
 
-req = fox.get("google.com")
-print(req.headers)
-```
+# Payload -->
+data = {
+    'name' : 'error',
+    'projectname' : 'firefox',
+    'post' : True # bla bla
+}
 
-## Response Time
-```python 
-import superfox as fox
+url = 'url adress to post'
+req = fox.post(url,payload=data) # send request. 
 
-req = fox.get("google.com")
-print(req.response_time)
+print(req.text)  
+
+"""
+Avaliable :
+
+url
+text
+ip
+domain
+status_code
+headers
+"""
 ```

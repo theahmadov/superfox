@@ -13,7 +13,7 @@ class get:
     domain = ''
     status_code = 0
     response_time = 0
-    headers = 0
+    headers = ''
     
     def __init__(agent,url):
         if(url.startswith('http') and ('://' in url)):
