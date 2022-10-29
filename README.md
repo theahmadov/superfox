@@ -1,4 +1,4 @@
-# Superfox
+# Superfox # WIll avaliable soon on pypi.org
 
 Send web requests with superfox. Check example codes for more information about usage.
 
@@ -65,3 +65,14 @@ status_code
 headers
 """
 ```
+<<<<<<< HEAD
+=======
+
+## Response Time
+```python 
+import superfox as fox
+
+req = fox.get("google.com")
+print(req.response_time)
+```
+>>>>>>> e36f084454b643ded583777af0f1a3eb129375b2
